@@ -10,6 +10,6 @@ fmt.Println(hello())
 
 func hello() string {
 
-return "Hello go"
+return "Hello Go"
 
 }
